@@ -6,6 +6,5 @@
 # Used technologies : 
 
 - Axios
-- React Icons
-- React Context
+- React Context-Api
 - OpenWeatherMap API
